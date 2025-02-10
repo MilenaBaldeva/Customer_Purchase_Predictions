@@ -172,7 +172,7 @@ Target Variable:
 ## 👤 Author  
 
 📌 **Milena Baldeva**  
-📧 **milena.baldeva@gmail.com**  
-
+📧 [milena.baldeva@gmail.com](mailto:milena.baldeva@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/milenabaldeva-051b01100)  
 
 
