@@ -49,7 +49,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 ### 1. Distribution Insights
 - **Numerical Features**:
   - Right-skewed: `Administrative Page Visits`
