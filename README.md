@@ -132,6 +132,7 @@ Target Variable:
 ## 🔍 Key Business Insights  
 
 ### **SHAP Analysis: Top Predictors of Purchase**  
+<img src="https://github.com/MilenaBaldeva/Codes/blob/main/Shap.png" alt="Correlation Heatmap" width="600">
 1. **PageValues** → Strongest predictor  
 2. **TimeSpentOnSite** → Higher engagement = Higher conversion  
 3. **ProductRelated_Duration** → More time on product pages = More purchases  
@@ -171,9 +172,5 @@ Target Variable:
 📌 **Milena Baldeva**  
 📧 **milena.baldeva@gmail.com**  
 
-
-### 2️⃣ Correlation Analysis   
-Below is the **correlation heatmap** of numerical variables, highlighting strong relationships between features:
-<img src="https://github.com/MilenaBaldeva/Codes/blob/main/Correlation%20Heatmap%20of%20Numerical%20Variables.png" alt="Correlation Heatmap" width="600">
 
 
