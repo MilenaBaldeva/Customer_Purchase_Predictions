@@ -133,6 +133,7 @@ Target Variable:
 
 ### **SHAP Analysis: Top Predictors of Purchase**  
 <img src="https://github.com/MilenaBaldeva/Codes/blob/main/Shap.png" alt="Correlation Heatmap" width="600">
+
 1. **PageValues** → Strongest predictor  
 2. **TimeSpentOnSite** → Higher engagement = Higher conversion  
 3. **ProductRelated_Duration** → More time on product pages = More purchases  
