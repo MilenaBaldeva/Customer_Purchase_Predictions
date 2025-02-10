@@ -173,6 +173,6 @@ Target Variable:
 
 📌 **Milena Baldeva**  
 📧 [milena.baldeva@gmail.com](mailto:milena.baldeva@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/milenabaldeva-051b01100)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/milena-baldeva-051b01100/)  
 
 
