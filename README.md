@@ -23,6 +23,7 @@ Using **data preprocessing, exploratory data analysis (EDA), feature engineering
 ## 🛠 Data Preprocessing  
 
 ### 1️⃣ Data Loading & Exploration  
+- **Dataset Source:** [UCI Online Shoppers Intention](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 - **Loaded dataset:** `online_shoppers_intention.csv` (12,330 rows, 18 columns)  
 - **Data types:** Numerical, categorical, and boolean  
 - **Basic exploration:** `.head()`, `.info()`, `.describe()`  
