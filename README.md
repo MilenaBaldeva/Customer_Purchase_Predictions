@@ -16,7 +16,6 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 - [Key Business Insights](#key-business-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-- [Setup & Installation](#setup--installation)
 
 ---
 
