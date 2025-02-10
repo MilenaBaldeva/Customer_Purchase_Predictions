@@ -8,8 +8,8 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 ---
 
 ## 📂 Table of Contents
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Preprocessing](##data-preprocessing)
+- [Exploratory Data Analysis (EDA)](##exploratory-data-analysis-eda)
 - [Feature Engineering](#feature-engineering)
 - [Model Development](#model-development)
 - [Model Comparison & Performance](#model-comparison--performance)
