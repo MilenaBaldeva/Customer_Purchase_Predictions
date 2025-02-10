@@ -67,7 +67,7 @@ Normalization:
 ### 2️⃣ Correlation Analysis   
 Below is the **correlation heatmap** of numerical variables, highlighting strong relationships between features:
 
-![Correlation Heatmap](iVBORw0KGgoAAAANSUhEUgAABCsAAANJCAYAAAAlULaOAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjAsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvlHJYcgAAAAlwSFlzAAAPYQAAD2EBqD)
+![Correlation Heatmap](https://github.com/MilenaBaldeva/Customer_Purchase_Predictions/blob/main/download.png)
 
 
 **Strong Positive Correlations:**  
