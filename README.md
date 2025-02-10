@@ -148,7 +148,6 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 ## 📌 Author
 Milena Baldeva
 📧 milena.baldeva@gmail.com
-🔗 LinkedIn
 
 
 
