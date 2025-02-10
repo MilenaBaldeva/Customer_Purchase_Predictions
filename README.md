@@ -8,7 +8,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 ---
 
 ## 📂 Table of Contents
-- [Data Preprocessing](#data-preprocessing)
+- [📊 Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Feature Engineering](#feature-engineering)
 - [Model Development](#model-development)
@@ -19,7 +19,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## Data Preprocessing
+## 📊 Data Preprocessing
 ### 1. Data Loading & Exploration
 - Loaded `online_shoppers_intention.csv` (12,330 rows, 18 columns).
 - Mixed data types: numerical, categorical, boolean.
