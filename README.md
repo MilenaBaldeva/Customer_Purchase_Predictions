@@ -20,7 +20,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 🔍 Data Preprocessing
+## Data Preprocessing
 ### 1. Data Loading & Exploration
 - Loaded `online_shoppers_intention.csv` (12,330 rows, 18 columns).
 - Mixed data types: numerical, categorical, boolean.
@@ -75,7 +75,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 - **New Features**:
   - `TimeSpentOnSite`: Total engagement time.
   - `VisitorType_New`: Simplified visitor segmentation.
@@ -84,20 +84,20 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 🤖 Model Development
+## Model Development
 - **Train-Test Split**: 80% train / 20% test (Stratified sampling).
 - **Class Distribution**:
   - Training: **Non-Buyers (84.53%)**, Buyers (15.47%).
   - Testing: **Non-Buyers (84.51%)**, Buyers (15.49%).
 
-### 🔥 Models Evaluated
+### Models Evaluated
 1. **Logistic Regression**
 2. **Random Forest**
 3. **XGBoost (Gradient Boosting)**
 
 ---
 
-## 📊 Model Comparison & Performance
+## Model Comparison & Performance
 
 | Model                 | Accuracy | Precision | Recall  | F1-Score | ROC-AUC |
 |----------------------|----------|------------|---------|----------|---------|
@@ -112,7 +112,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 🔑 Key Business Insights (SHAP Analysis)
+## Key Business Insights (SHAP Analysis)
 - **Top Predictors of Purchase**:
   - `PageValues`: **Strongest predictor**.
   - `TimeSpentOnSite`: **Higher engagement = Higher conversion**.
@@ -123,7 +123,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 📢 Recommendations
+## Recommendations
 ### 🔹 Improve Customer Retention & Sales
 1. **Enhance Page Value** → Implement personalized recommendations.
 2. **Target Seasonal Trends** → Boost marketing efforts in **May, March, December**.
@@ -139,7 +139,7 @@ We apply data preprocessing, exploratory data analysis (EDA), feature engineerin
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 ✅ **XGBoost is the best-performing model for predicting purchases**.  
 ✅ **PageValues, TimeSpentOnSite, and ProductRelated_Duration are the strongest predictors**.  
 ✅ **Optimizing engagement, reducing bounce rates, and seasonal marketing can drive higher revenue**.  
