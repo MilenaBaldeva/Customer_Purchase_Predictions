@@ -67,7 +67,6 @@ Normalization:
 ### 2️⃣ Correlation Analysis   
 Below is the **correlation heatmap** of numerical variables, highlighting strong relationships between features:
 <img src="https://github.com/MilenaBaldeva/Codes/blob/main/Correlation%20Heatmap%20of%20Numerical%20Variables.png" alt="Correlation Heatmap" width="600">
-
 **Strong Positive Correlations:**  
 - `ProductRelated` & `ProductRelated_Duration` **(+0.86)**  
 - `Administrative` & `Administrative_Duration` **(+0.60)**  
@@ -111,4 +110,70 @@ Target Variable:
 **Models Evaluated:**  
 - Logistic Regression  
 - Random Forest  
-- XGBoost (Best Model
+- XGBoost (Best Model)  
+
+---
+
+## 📈 Model Comparison & Performance  
+
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+|-------|----------|----------|--------|----------|---------|
+| Logistic Regression | 0.8812 | 0.7380 | 0.3613 | 0.4851 | 0.8810 |
+| Random Forest | 0.8978 | 0.7407 | 0.5236 | 0.6135 | 0.9168 |
+| **XGBoost (Best)** | **0.8950** | **0.6804** | **0.6073** | **0.6418** | **0.9213** |
+
+### 🏆 Best Model: XGBoost  
+- ✅ **Highest Recall (0.6073)** → Identifies most buyers  
+- ✅ **Best F1-Score (0.6418)** → Balance between precision & recall  
+- ✅ **Best ROC-AUC (0.9213)** → Strong classification ability  
+
+---
+
+## 🔍 Key Business Insights  
+
+### **SHAP Analysis: Top Predictors of Purchase**  
+1. **PageValues** → Strongest predictor  
+2. **TimeSpentOnSite** → Higher engagement = Higher conversion  
+3. **ProductRelated_Duration** → More time on product pages = More purchases  
+4. **ExitRates** → Lower exit rates = Higher purchase probability  
+5. **VisitorType_Returning_Visitor** → Returning visitors convert more often  
+6. **Weekend** → Weekends positively impact purchases  
+
+---
+
+## 🎯 Recommendations  
+
+### **Improve Customer Retention & Sales**  
+- **Enhance Page Value** → Implement personalized recommendations.  
+- **Target Seasonal Trends** → Boost marketing efforts in **May, March, December**.  
+- **Reduce Exit & Bounce Rates** → Improve website usability, content relevance.  
+- **Engage Visitors** → Optimize product pages for clarity and engagement.  
+- **Retain Returning Customers** → Implement loyalty programs & personalized offers.  
+- **Weekend Promotions** → Offer discounts & flash sales on weekends.  
+
+### **For Marketing & Sales Teams**  
+- **Target High-Value Users** → Use the **XGBoost model** to identify engaged users.  
+- **Personalized Marketing** → Use **SHAP insights** to tailor promotions.  
+- **Optimize Website** → Monitor & improve bounce and exit rates via A/B testing.  
+
+---
+
+## ✅ Conclusion  
+
+✅ **XGBoost is the best-performing model for predicting purchases.**  
+✅ **PageValues, TimeSpentOnSite, and ProductRelated_Duration are the strongest predictors.**  
+✅ **Optimizing engagement, reducing bounce rates, and seasonal marketing can drive higher revenue.**  
+
+---
+
+## 👤 Author  
+
+📌 **Milena Baldeva**  
+📧 **milena.baldeva@gmail.com**  
+
+
+### 2️⃣ Correlation Analysis   
+Below is the **correlation heatmap** of numerical variables, highlighting strong relationships between features:
+<img src="https://github.com/MilenaBaldeva/Codes/blob/main/Correlation%20Heatmap%20of%20Numerical%20Variables.png" alt="Correlation Heatmap" width="600">
+
+
